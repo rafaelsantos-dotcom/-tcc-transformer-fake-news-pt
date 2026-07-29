@@ -16,7 +16,7 @@ A pesquisa utiliza a arquitetura **Transformer** e o modelo pré-treinado **BERT
 - Tokenização e treinamento do modelo.
 - Avaliação de métricas (Acurácia, Precisão, etc).
 
-## 🎓 Identificação
+## Identificação
 - **Autor:** Rafael Proença dos Santos
 - **Orientador:** Prof. Nilton Kazuo Gomes Suzuki
 - **Instituição:** UnC - Campus Curitibanos
